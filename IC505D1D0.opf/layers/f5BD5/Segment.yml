@@ -1,0 +1,9 @@
+id: feed32ea277742a495dfdae35d1d56ea
+annotation_type: Segment
+revision: '00001'
+annotations:
+  50e8f6f22330456195f200a061b56401:
+    span:
+      start: 0
+      end: 1399
+    metadata: {}
